@@ -12,9 +12,6 @@ public class DerivativeTester {
 	    for(int i=0; i<=5; i++){
 	        System.out.println("f^"+i+"(2) = " + df(i, new BigDecimal("2")));
         }
-        //test = test.add(new BigDecimal("30"));
-	    //System.out.println(test);
-
     }
 
     //Enter custom function f(x) here
